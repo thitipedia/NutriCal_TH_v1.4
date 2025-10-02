@@ -1,0 +1,32 @@
+{
+  "Hoagland": {
+    "description": "",
+    "target_nutrients": {
+      "NO3": 929.3595102192628,
+      "Ca": 200.26271437645565,
+      "K": 195.29663699307616,
+      "P": 30.965921933408676,
+      "NH4": 18.042177410488765,
+      "B": 0.5000721332686399,
+      "Mo": 0.04891209360283528,
+      "Fe": 0.3955782590927666,
+      "Cu": 0.020360781800704903,
+      "S": 64.38591380987499,
+      "Mg": 48.51730433724185,
+      "Zn": 0.05002295332823259,
+      "Mn": 0.5883544168984085
+    },
+    "chemicals": {
+      "Calcium Nitrate": 1180.0,
+      "Potassium Nitrate": 505.0,
+      "Monoammonium Phosphate (MAP)": 115.0,
+      "Boric Acid": 2.8600000000000003,
+      "Ammonium Molybdate": 0.09000000000000001,
+      "Iron EDTA (13%)": 20.0,
+      "Copper Sulfate": 0.08,
+      "Magnesium Sulfate (Epsom Salt)": 492.0,
+      "Zinc Sulfate": 0.22,
+      "Manganese Sulfate": 1.81
+    }
+  }
+}
