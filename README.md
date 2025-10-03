@@ -1,6 +1,22 @@
-# โปรแกรมคำนวณธาตุอาหาร - Nutrient Calculator
+# NutriCal_TH - โปรแกรมคำนวณธาตุอาหาร
 
 โปรแกรมสำหรับคำนวณความเข้มข้นของธาตุอาหารและปริมาณสารเคมีที่ใช้ในการผสมสารละลายธาตุอาหาร
+
+## License
+
+This work is licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial 4.0 International)
+
+**Copyright © 2024 Thitipat Weeplian**
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to Thitipat Weeplian
+- **NonCommercial** — You may not use the material for commercial purposes
+
+For more details: https://creativecommons.org/licenses/by-nc/4.0/
 
 ## ฟีเจอร์หลัก
 
@@ -188,9 +204,9 @@ pyinstaller --clean build.spec
 - **Python**: 3.7+ (ถ้ารันจาก source code)
 - **ไฟล์ .exe**: ไม่ต้องติดตั้ง Python
 
-## License
+## ผู้พัฒนา
 
-โปรแกรมนี้พัฒนาเพื่อการศึกษาและใช้งานฟรี
+**Thitipat Weeplian**
 
 ## การติดต่อ
 
